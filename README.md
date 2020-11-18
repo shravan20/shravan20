@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?&theme=gotham" alt="my-personal-project"/>
+</p>
 
 - 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning UI/UX Principles
@@ -34,6 +37,16 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
-![GithubStats](https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=radical)
 
+<a href="https://github.com/shravan20/LearningResources">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=LearningResources" />
+</a>
+<a href="https://github.com/shravan20/github-readme-quotes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=github-readme-quotes" />
+</a>
+
+
+<a href="//https://github.com/shravan20">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=gotham" />
+</a>
 
