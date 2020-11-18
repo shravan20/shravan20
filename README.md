@@ -10,6 +10,7 @@
 - 📫 How to reach me: shravan@ohmyscript.com
 - ⚡ Fun fact: Brain is forever a nerd
 
+[![Github](https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social)](https://github.com/shravan20)
 [![Twitter Follow](https://img.shields.io/twitter/follow/imshravankb?style=social)](https://twitter.com/imshravankb)
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/shravankb)](https://www.linkedin.com/in/shravankb/)
 
@@ -38,8 +39,7 @@ These are some of the technologies and tools that I work with:
 
 ---
 
-#### :trident:  My OS Projects 
-
+#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My OS Projects  
 ```javascript
 console.log(`Feel free to contribute`)
 ```
