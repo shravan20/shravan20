@@ -40,6 +40,10 @@ These are some of the technologies and tools that I work with:
 
 #### :trident: My OS Projects 
 
+```javascript
+console.log(`Feel free to contribute`)
+```
+
 <span>
 <p align="center">
   <a href="https://github.com/shravan20/LearningResources">
@@ -51,9 +55,6 @@ These are some of the technologies and tools that I work with:
   </a>
 </p>
 </span>
-
-
->Feel free to contribute
 
 
 <br>
