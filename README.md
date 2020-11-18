@@ -63,8 +63,9 @@ console.log(`Feel free to contribute`)
 
 #### :octocat: My Github Stats
 
-
+<p align="center">
 <a href="//https://github.com/shravan20">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=gotham" />
 </a>
+</p>
 
