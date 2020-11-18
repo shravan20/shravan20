@@ -13,7 +13,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/imshravankb?style=social)](https://twitter.com/imshravankb)
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/shravankb)](https://www.linkedin.com/in/shravankb/)
 
-
+---
 #### ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
@@ -38,19 +38,30 @@ These are some of the technologies and tools that I work with:
 
 ---
 
+#### :trident: My OS Projects 
+
 <span>
 <p align="center">
-<a href="https://github.com/shravan20/LearningResources">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=LearningResources" />
-</a>
+  <a href="https://github.com/shravan20/LearningResources">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=LearningResources" />
+  </a>
 
-<a href="https://github.com/shravan20/github-readme-quotes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=github-readme-quotes" />
-</a>
+  <a href="https://github.com/shravan20/github-readme-quotes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=github-readme-quotes" />
+  </a>
 </p>
 </span>
 
+
+>Feel free to contribute
+
+
 <br>
+
+---
+
+#### :octocat: My Github Stats
+
 
 <a href="//https://github.com/shravan20">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=gotham" />
