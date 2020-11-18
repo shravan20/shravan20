@@ -38,7 +38,7 @@ These are some of the technologies and tools that I work with:
 
 ---
 
-#### :trident: My OS Projects 
+#### :trident:  My OS Projects 
 
 ```javascript
 console.log(`Feel free to contribute`)
@@ -61,7 +61,7 @@ console.log(`Feel free to contribute`)
 
 ---
 
-#### :octocat: My Github Stats
+#### :octocat:  My Github Stats
 
 <p align="center">
 <a href="//https://github.com/shravan20">
