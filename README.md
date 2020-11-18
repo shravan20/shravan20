@@ -44,7 +44,7 @@ These are some of the technologies and tools that I work with:
 console.log(`Feel free to contribute`)
 ```
 
-<span>
+<span style="color:blue">
 <p align="center">
   <a href="https://github.com/shravan20/LearningResources">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=LearningResources&theme=gotham" />
