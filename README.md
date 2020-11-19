@@ -59,7 +59,7 @@ These are some of the technologies and tools that I work with:
 console.log(`Feel free to contribute`)
 ```
 
-<span style="color:blue">
+<span>
 <p align="center">
   <a href="https://github.com/shravan20/LearningResources">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=LearningResources&theme=gotham" />
@@ -79,8 +79,8 @@ console.log(`Feel free to contribute`)
 #### :octocat:  My Github Stats
 
 <p align="center">
-<a href="//https://github.com/shravan20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=gotham&" />
+<a href="https://github.com/shravan20">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=gotham&&" />
 </a>
 </p>
 
