@@ -15,6 +15,10 @@
     <img src="https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social"/>
   </a>
 
+  <a href="https://github.com/shravan20" target="_blank">
+    <img src="https://img.shields.io/badge/%3COhMyScript%2F%3E-Follow%20-green?style=social"/>
+  </a>
+
 
   <a href="https://twitter.com/imshravankb" target="_blank">
     <img src="https://img.shields.io/twitter/follow/imshravankb?style=social"/>
