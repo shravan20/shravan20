@@ -11,6 +11,38 @@
 - ⚡ Fun fact: Brain is forever a nerd
 
 <p align="center">
+  <a title="Portfolio" href="https://ohmyscript.com/">
+    <img src="https://iamskb258154309.files.wordpress.com/2020/07/cropped-circle-cropped.png" width="50" height="50" />
+  </a>
+  
+  <a title="DEV.to" href="https://dev.to/imshravan">
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Medium" href="https://medium.com/@imshravan">
+    <img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-1200-80.jpg" width="50" height="50" />
+  </a>
+ 
+  <a title="LinkedIn" href="https://www.linkedin.com/in/shravankb/">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Email" href="mailto:shravan@ohmyscript.com">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Stackoverflow" href="https://stackoverflow.com/users/11899809/shravan-kumar-b">
+    <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Twitter" href="https://twitter.com/imshravankb">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
   <a href="https://github.com/shravan20" target="_blank">
     <img src="https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social"/>
   </a>
