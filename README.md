@@ -1,8 +1,11 @@
 ### Hi there 👋
 
+
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?&theme=gotham" alt="my-personal-project"/>
+  <img src="assets/header.png" alt="header"/>
 </p>
+
+
 
 - 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning UI/UX Principles
@@ -110,6 +113,7 @@ console.log(`Feel free to contribute`)
 
 <br>
 
+
 ---
 
 #### :octocat:  My Github Stats
@@ -119,4 +123,12 @@ console.log(`Feel free to contribute`)
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=gotham&&" />
 </a>
 </p>
+
+
+---
+
+<p align="center">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?&theme=gotham" alt="my-personal-project"/>
+</p>
+
 
