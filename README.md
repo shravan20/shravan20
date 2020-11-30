@@ -1,11 +1,22 @@
-### Hi there 👋
+<p align="center">
+  <h1 align="center">Hi, I am S K B 👋 </h1>
+</p>
 
+---
 
 <p align="center">
   <img src="assets/header.png" alt="header"/>
 </p>
 
+<p align="center">
+  <img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="header"/>
+  <br>
+  <h5 align="center">console.log('Forever Explorer');</h5>
+</p>
 
+
+
+<br>
 
 - 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning UI/UX Principles
