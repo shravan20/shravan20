@@ -106,7 +106,7 @@ These are some of the technologies and tools that I work with:
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My OS Projects  
 ```javascript
-console.log(`Feel free to contribute`)
+console.log(`Feel free to contribute`);
 ```
 
 <span>
@@ -138,8 +138,10 @@ console.log(`Feel free to contribute`)
 
 ---
 
+#### :lotus_position_man: My Thoughts
+
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?&theme=gotham" alt="my-personal-project"/>
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&quotesUrl=https://gist.githubusercontent.com/shravan20/3675eec603b22134e185e50e6fa3ef72/raw/1e1e8518338fea668135da067fea6ac09dc09c82/quotes.json" alt="my-personal-project"/>
 </p>
 
 
