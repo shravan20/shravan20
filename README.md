@@ -112,11 +112,11 @@ console.log(`Feel free to contribute`);
 <span>
 <p align="center">
   <a href="https://github.com/shravan20/LearningResources">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=LearningResources&theme=gotham" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=LearningResources&theme=calm" />
   </a>
 
   <a href="https://github.com/shravan20/github-readme-quotes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=github-readme-quotes&theme=gotham" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=github-readme-quotes&theme=calm" />
   </a>
 </p>
 </span>
@@ -131,7 +131,7 @@ console.log(`Feel free to contribute`);
 
 <p align="center">
 <a href="https://github.com/shravan20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=gotham&&" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=calm" />
 </a>
 </p>
 
@@ -141,7 +141,7 @@ console.log(`Feel free to contribute`);
 #### :lotus_position_man: My Thoughts
 
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&quotesUrl=https://gist.githubusercontent.com/shravan20/3675eec603b22134e185e50e6fa3ef72/raw/1e1e8518338fea668135da067fea6ac09dc09c82/quotes.json" alt="my-personal-project"/>
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=calm&quotesUrl=https://gist.githubusercontent.com/shravan20/3675eec603b22134e185e50e6fa3ef72/raw/1e1e8518338fea668135da067fea6ac09dc09c82/quotes.json" alt="my-personal-project"/>
 </p>
 
 
