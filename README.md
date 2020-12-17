@@ -33,7 +33,7 @@
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
   </a>
   
-  <a title="Medium" href="https://medium.com/@imshravan">
+  <a title="Medium" href="https://medium.com/@imshravan" style="border-radius:10px">
     <img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-1200-80.jpg" width="50" height="50" />
   </a>
  
@@ -61,10 +61,6 @@
     <img src="https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social"/>
   </a>
 
-  <a href="https://github.com/shravan20" target="_blank">
-    <img src="https://img.shields.io/badge/%3COhMyScript%2F%3E-Follow%20-green?style=social"/>
-  </a>
-
 
   <a href="https://twitter.com/imshravankb" target="_blank">
     <img src="https://img.shields.io/twitter/follow/imshravankb?style=social"/>
@@ -74,6 +70,10 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/shravankb"/>
   </a>
 </p>
+
+
+<p align="center"> <img src="https://gpvc.arturio.dev/shravan20" alt="profile-views"> </p>
+
 
 
 <br>
