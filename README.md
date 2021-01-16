@@ -155,3 +155,12 @@ console.log(`Feel free to contribute`);
 <p align="center">
 <a href="https://www.buymeacoffee.com/dexplorer" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=dexplorer&button_colour=ff7e38&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="10%" width="20%" ></a>
 </p>
+
+---
+
+
+
+<p align="center">
+  <img src="assets/Banner.png" alt="Banner"/>
+</p>
+
