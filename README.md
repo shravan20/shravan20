@@ -122,6 +122,17 @@ console.log(`Feel free to contribute`);
   </a>
 </p>
 </span>
+<span>
+<p align="center">
+   <a href="https://github.com/shravan20/software-installation-guides">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=software-installation-guides&theme=algolia" />
+  </a>
+   <a href="https://github.com/shravan20/express-lite">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=express-lite&theme=algolia" />
+  </a>
+
+</p>
+</span>
 
 
 <br>
