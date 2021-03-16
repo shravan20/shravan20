@@ -119,7 +119,7 @@ console.log(`Feel free to contribute`);
 
   <a href="https://github.com/shravan20/github-readme-quotes">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=github-readme-quotes&theme=algolia" />
-  </a>
+  </a>  
 </p>
 </span>
 <span>
@@ -134,6 +134,17 @@ console.log(`Feel free to contribute`);
 </p>
 </span>
 
+<span>
+<p align="center">
+   <a href="https://github.com/shravan20/software-installation-guides">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=software-installation-guides&theme=algolia" />
+  </a>
+   <a href="https://github.com/shravan20/express-lite">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=express-lite&theme=algolia" />
+  </a>
+  
+</p>
+</span>
 
 <br>
 
@@ -143,9 +154,9 @@ console.log(`Feel free to contribute`);
 #### :octocat:  My Github Stats
 
 <p align="center">
-<a href="https://github.com/shravan20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=algolia" />
-</a>
+  <a href="https://github.com/shravan20">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=algolia" />
+  </a>
 </p>
 <p align="center">
 <a href="https://github.com/shravan20">
