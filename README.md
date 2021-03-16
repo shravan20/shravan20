@@ -35,7 +35,7 @@
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
   </a>
   
-  <a title="Medium" href="https://medium.com/@imshravan">
+  <a title="Medium" href="https://medium.com/@shravan20">
     <img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-1200-80.jpg" width="45" height="45"  />
   </a>
  
