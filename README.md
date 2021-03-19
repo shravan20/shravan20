@@ -12,10 +12,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/header.png" alt="header"/>
+  <img src="assets/Banner.png" alt="Banner"/>
 </p>
-
-
 
 
 <br>
@@ -192,8 +190,6 @@ console.log(`Feel free to contribute`);
 ---
 
 
-
 <p align="center">
-  <img src="assets/Banner.png" alt="Banner"/>
+  <img src="assets/header.png" alt="header"/>
 </p>
-
