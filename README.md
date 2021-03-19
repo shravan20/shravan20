@@ -102,6 +102,11 @@ These are some of the technologies and tools that I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+<p align="center">
+  <img src="assets/header.png" alt="header"/>
+</p>
+
+
 ---
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My OS Projects  
@@ -188,8 +193,3 @@ console.log(`Feel free to contribute`);
 </p>
 
 ---
-
-
-<p align="center">
-  <img src="assets/header.png" alt="header"/>
-</p>
