@@ -92,7 +92,7 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/-mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/-Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" /><br/>
       <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
