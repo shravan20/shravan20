@@ -114,10 +114,11 @@ These are some of the technologies and tools that I work with:
     <th>Automate, Deploy, Platform & Tools</th>
     <td>
       <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
       <img src="https://img.shields.io/badge/-Jenkins-DC382D?style=flat-square&logo=jenkins&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> <br/ >
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /> <br/ >
+      <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
     </td>
   </tr>
   
