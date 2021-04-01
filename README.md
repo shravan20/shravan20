@@ -80,6 +80,16 @@
 
 ---
 
+
+#### 💌 Subscribe to My Weekly Technical Newsletter
+
+
+<p align="center">
+<a href="https://tinyletter.com/ohmyscript" target="_blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bxkmbbensmp91vst5vm9.png" alt="subscribe" style="border-radius:10px;"></a>
+</p>
+
+---
+
 #### ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
