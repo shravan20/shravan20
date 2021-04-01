@@ -217,11 +217,6 @@ console.log(`Feel free to contribute`);
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravan20&theme=algolia#version3" />
 </a>
 </p>
-<p align="center">
-<a href="https://sourcekarma.vercel.app/shravan20">
-  <img align="center" src="https://sourcekarma-og.vercel.app/api/shravan20/github" />
-</a>
-</p>
 
 
 ---
