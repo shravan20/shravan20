@@ -18,7 +18,8 @@
 
 <br>
 
-- 🔭 I’m currently working on MERN Stack
+- 🔭 I professionally work on MERN Stack
+- 🧮 Currently, exploring and gaining developmental experience on Microservices and Spring Boot
 - 🌱 I’m currently fostering experience on DevOps
 - 👯 I’m looking to collaborate on working on new OS projects
 - 📫 How to reach me: shravan@ohmyscript.com
