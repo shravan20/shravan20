@@ -17,7 +17,8 @@
 
 <br>
 
-- 🔭 I professionally work on MERN Stack
+- 🔭 Currently working on Spring Framework; prior to this, I professionally was working on MERN Stack
+- 🐾 Learning every nooks and cranny of the Supply Chain Domain; it's quite interesting interms of problem solving
 - 🧮 Currently, exploring and gaining developmental experience on Microservices and Spring Boot
 - 🌱 I’m currently fostering experience on DevOps
 - 👯 I’m looking to collaborate and work on new Open Source projects
