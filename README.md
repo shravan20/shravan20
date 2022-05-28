@@ -4,8 +4,7 @@
 
 
 <p align="center">
-<!--   <img align="center" width="5%" src="https://dev-to-uploads.s3.amazonaws.com/i/6mlc1xjw8c5i762zgq0i.gif" alt="header"/> -->
-  <img align="center" width="25%" src="/assets/exploring.gif" alt="header"/>
+  <img align="center" width="25%" src="/assets/dino.png" alt="header"/>
   <br>
   <h5 align="center">console.log('Forever Explorer');</h5>
 </p>
