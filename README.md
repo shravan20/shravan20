@@ -1,3 +1,4 @@
+<samp>
 <p align="center">
   <h1 align="center">Hey there! 👋  </h1>
 </p>
@@ -250,3 +251,4 @@ console.log(`Feel free to contribute`);
 
 ---
 
+</samp>
