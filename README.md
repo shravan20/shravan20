@@ -50,7 +50,7 @@
     <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
   </a>
   
-  <a title="Twitter" href="https://twitter.com/imshravankb">
+  <a title="Twitter" href="https://twitter.com/shraaaaaavan">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
   </a>
 </p>
