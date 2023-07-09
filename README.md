@@ -204,11 +204,16 @@ console.log(`Feel free to contribute`);
   </a>  
 </p>
 </span>
+
 <span>
 <p align="center">
    <a href="https://github.com/shravan20/software-installation-guides">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=software-installation-guides&theme=algolia" />
   </a>
+
+  <a href="https://github.com/idodav/sharkio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=idodav&repo=sharkio&theme=algolia" />
+  </a>  
 </p>
 </span>
 <br>
