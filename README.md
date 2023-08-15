@@ -76,7 +76,7 @@
 </p>
 
 
-<p align="center"> <img src="https://gpvc.arturio.dev/shravan20" alt="profile-views"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shravan20&label=Profile+Views" alt="profile-views"> </p>
 
 
 
