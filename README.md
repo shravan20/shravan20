@@ -30,7 +30,7 @@
     <img src="https://iamskb258154309.files.wordpress.com/2020/07/cropped-circle-cropped.png" width="50" height="50" />
   </a>
   
-  <a title="DEV.to" href="https://dev.to/imshravan">
+  <a title="DEV.to" href="https://dev.to/shravan20">
     <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
   </a>
   
@@ -38,7 +38,7 @@
     <img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-1200-80.jpg" width="45" height="45"  />
   </a>
  
-  <a title="LinkedIn" href="https://www.linkedin.com/in/shravankb/">
+  <a title="LinkedIn" href="https://www.linkedin.com/in/shravan20/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
   </a>
   
@@ -50,7 +50,7 @@
     <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
   </a>
   
-  <a title="Twitter" href="https://twitter.com/shraaaaaavan">
+  <a title="Twitter" href="https://twitter.com/shravan20_">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
   </a>
 </p>
