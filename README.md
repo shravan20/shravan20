@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img align="center" width="25%" src="/assets/dino.png" alt="header"/>
+  <img align="center" width="25%" src="/assets/turtle.png" alt="header"/>
   <br>
   <h5 align="center">console.log('Forever Explorer');</h5>
 </p>
