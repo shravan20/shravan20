@@ -46,11 +46,11 @@
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
   </a>
   
-  <a title="Stackoverflow" href="https://stackoverflow.com/users/11899809/shravan-kumar-b">
+  <a title="Stackoverflow" href="https://stackoverflow.com/users/11899809/shravan20">
     <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
   </a>
   
-  <a title="Twitter" href="https://twitter.com/shravan20_">
+  <a title="Twitter" href="https://x.com/shravan20_">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
   </a>
 </p>
