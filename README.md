@@ -64,11 +64,11 @@
 
 
   <a href="https://twitter.com/imshravankb" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/imshravankb?style=social"/>
+    <img src="https://img.shields.io/twitter/follow/shravan20_?style=social"/>
   </a>
 
   <a href="https://www.linkedin.com/in/shravankb/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/shravankb"/>
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/shravan20"/>
   </a>
     <a href="https://nervous-spruce-c3486.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/check-portfolio-pink?style=flat-square&logo=jupyter&logoColor=red"/>
