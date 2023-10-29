@@ -51,7 +51,7 @@
   </a>
   
   <a title="Twitter" href="https://x.com/shravan20_">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
+    <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-outline-64.png" width="50" height="50" />
   </a>
 </p>
 
