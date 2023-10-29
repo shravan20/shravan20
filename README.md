@@ -25,6 +25,8 @@
 - 📫 How to reach me: shravan@ohmyscript.com
 - ⚡ Fun fact: Brain is forever a nerd
 
+<br><br>
+
 <p align="center">
   <a title="Portfolio" href="https://ohmyscript.com/">
     <img src="https://iamskb258154309.files.wordpress.com/2020/07/cropped-circle-cropped.png" width="50" height="50" />
@@ -53,6 +55,11 @@
   <a title="Twitter" href="https://x.com/shravan20_">
     <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-outline-64.png" width="50" height="50" />
   </a>
+
+  <a title="Calendly" href="https://calendly.com/shravan20">
+    <img src="https://cdn4.iconfinder.com/data/icons/35-education-and-school-4/512/08_Calenday-512.png" width="50" height="50" />
+  </a>
+  
 </p>
 
 <br>
@@ -63,14 +70,15 @@
   </a>
 
 
-  <a href="https://twitter.com/imshravankb" target="_blank">
+  <a href="https://twitter.com/shravan20_" target="_blank">
     <img src="https://img.shields.io/twitter/follow/shravan20_?style=social"/>
   </a>
 
   <a href="https://www.linkedin.com/in/shravankb/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/shravan20"/>
   </a>
-    <a href="https://nervous-spruce-c3486.netlify.app/" target="_blank">
+  
+  <a href="https://nervous-spruce-c3486.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/check-portfolio-pink?style=flat-square&logo=jupyter&logoColor=red"/>
   </a>
 </p>
