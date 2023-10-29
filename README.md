@@ -27,40 +27,49 @@
 
 <br><br>
 
-<p align="center">
-  <a title="Portfolio" href="https://ohmyscript.com/">
-    <img src="https://iamskb258154309.files.wordpress.com/2020/07/cropped-circle-cropped.png" width="50" height="50" />
-  </a>
-  
-  <a title="DEV.to" href="https://dev.to/shravan20">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
-  </a>
-  
-  <a title="Medium" href="https://medium.com/@shravan20">
-    <img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-1200-80.jpg" width="45" height="45"  />
-  </a>
- 
-  <a title="LinkedIn" href="https://www.linkedin.com/in/shravan20/">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
-  </a>
-  
-  <a title="Email" href="mailto:shravan@ohmyscript.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
-  </a>
-  
-  <a title="Stackoverflow" href="https://stackoverflow.com/users/11899809/shravan20">
-    <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
-  </a>
-  
-  <a title="Twitter" href="https://x.com/shravan20_">
-    <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-outline-64.png" width="50" height="50" />
-  </a>
-
-  <a title="Calendly" href="https://calendly.com/shravan20">
-    <img src="https://cdn4.iconfinder.com/data/icons/35-education-and-school-4/512/08_Calenday-512.png" width="50" height="50" />
-  </a>
-  
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a title="Portfolio" href="https://ohmyscript.com/">
+        <img src="https://iamskb258154309.files.wordpress.com/2020/07/cropped-circle-cropped.png" width="50" height="50" />
+      </a>
+    </td>
+    <td>
+      <a title="DEV.to" href="https://dev.to/shravan20">
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
+      </a>
+    </td>
+    <td>
+      <a title="Medium" href="https://medium.com/@shravan20">
+        <img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-1200-80.jpg" width="45" height="45" />
+      </a>
+    </td>
+    <td>
+      <a title="LinkedIn" href="https://www.linkedin.com/in/shravan20/">
+        <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
+      </a>
+    </td>
+    <td>
+      <a title="Email" href="mailto:shravan@ohmyscript.com">
+        <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
+      </a>
+    </td>
+    <td>
+      <a title="Stackoverflow" href="https://stackoverflow.com/users/11899809/shravan20">
+        <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
+      </a>
+    </td>
+    <td>
+      <a title="Twitter" href="https://x.com/shravan20_">
+        <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-outline-64.png" width="50" height="50" />
+      </a>
+    </td>
+    <td>
+      <a title="Calendly" href="https://calendly.com/shravan20">
+        <img src="https://cdn4.iconfinder.com/data/icons/35-education-and-school-4/512/08_Calenday-512.png" width="50" height="50" />
+      </a>
+    </td>
+</table>
 
 <br>
 
@@ -68,23 +77,14 @@
   <a href="https://github.com/shravan20" target="_blank">
     <img src="https://img.shields.io/github/followers/shravan20?label=Follow%20Me&style=social"/>
   </a>
-
-
-  <a href="https://twitter.com/shravan20_" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/shravan20_?style=social"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/shravankb/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/shravan20"/>
-  </a>
   
   <a href="https://nervous-spruce-c3486.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/check-portfolio-pink?style=flat-square&logo=jupyter&logoColor=red"/>
   </a>
+
+  <img src="https://komarev.com/ghpvc/?username=shravan20&label=Profile+Views" alt="profile-views">
 </p>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shravan20&label=Profile+Views" alt="profile-views"> </p>
 
 
 
