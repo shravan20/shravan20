@@ -193,29 +193,34 @@ These are some of the technologies and tools that I work with:
 console.log(`Feel free to contribute`);
 ```
 
-<span>
-<p align="center">
-  <a href="https://github.com/shravan20/LearningResources">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=LearningResources&theme=algolia" />
-  </a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/shravan20/LearningResources">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=LearningResources&theme=algolia" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/shravan20/github-readme-quotes">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=github-readme-quotes&theme=algolia" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/shravan20/software-installation-guides">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=software-installation-guides&theme=algolia" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/idodav/sharkio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=idodav&repo=sharkio&theme=algolia" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://github.com/shravan20/github-readme-quotes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=github-readme-quotes&theme=algolia" />
-  </a>  
-</p>
-</span>
 
-<span>
-<p align="center">
-   <a href="https://github.com/shravan20/software-installation-guides">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shravan20&repo=software-installation-guides&theme=algolia" />
-  </a>
-
-  <a href="https://github.com/idodav/sharkio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=idodav&repo=sharkio&theme=algolia" />
-  </a>  
-</p>
-</span>
 <br>
 
 
@@ -223,16 +228,22 @@ console.log(`Feel free to contribute`);
 
 #### :octocat:  My Github Stats
 
-<p align="center">
-  <a href="https://github.com/shravan20">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=algolia" />
-  </a>
-</p>
-<p align="center">
-<a href="https://github.com/shravan20">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravan20&theme=algolia#version3" />
-</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/shravan20">
+        <img src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=algolia" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/shravan20">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravan20&theme=algolia#version3" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
