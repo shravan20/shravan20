@@ -17,13 +17,17 @@
 
 <br>
 
-- 🔭 Currently working on Spring Framework; prior to this, I professionally was working on MERN Stack
-- 🐾 Exploring every nooks and cranny of the Supply Chain Domain; it's quite interesting in terms of problem solving
-- 🧮 Gaining developmental experience on Microservices and Spring
-- 🌱 I’m currently fostering experience on DevOps
-- 👯 I’m looking to collaborate and work on new Open Source projects
-- 📫 How to reach me: shravan@ohmyscript.com
-- ⚡ Fun fact: Brain is forever a nerd
+- 🔭 I possess a solid foundation and showcase a robust skill set in `Java`, `JavaScript`, `Python`, and `C++`, complemented by experience in `Node.js`, `Express.js`, `Spring`, `SpringBoot`, `Django`, and `Flask` frameworks.
+  
+- 🐾 Exploring every nook and corner of the Data Science domain; I find it quite interesting in terms of problem-solving.
+  
+- 🌱 Gaining developmental experience in Data Science and Microservices.
+  
+- 👯 I’m looking to collaborate and work on new Open Source / Data Science projects.
+  
+- 📫 How to reach me: `shravan@ohmyscript.com`
+  
+- ⚡ Fun fact: Brain is forever a nerd.
 
 <br><br>
 
@@ -197,6 +201,7 @@ These are some of the technologies and tools that I work with:
 ---
 
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My OS Projects  
+
 ```javascript
 console.log(`Feel free to contribute`);
 ```
