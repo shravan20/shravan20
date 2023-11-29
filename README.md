@@ -3,7 +3,6 @@
   <h1 align="center">Hey there! 👋  </h1>
 </p>
 
-
 <p align="center">
   <img align="center" width="25%" src="/assets/turtle.png" alt="header"/>
   <br>
