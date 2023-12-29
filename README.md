@@ -100,7 +100,7 @@
 
 
 <p align="center">
-<a href="http://newsletter.ohmyscript.com/" target="_blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bxkmbbensmp91vst5vm9.png" alt="subscribe" style="border-radius:10px;"></a>
+<a href="https://newsletter.ohmyscript.com/" target="_blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bxkmbbensmp91vst5vm9.png" alt="subscribe" style="border-radius:10px;"></a>
 </p>
 
 ---
