@@ -206,7 +206,7 @@ These are some of the technologies and tools that I work with:
 console.log(`Feel free to contribute`);
 ```
 
-<table>
+<table style="width:100%" align="center">
   <tr>
     <td>
       <a href="https://github.com/shravan20/LearningResources">
