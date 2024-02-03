@@ -123,9 +123,10 @@ These are some of the technologies and tools that I work with:
    </td>
   </tr>
   <tr>
-    <th>Frameworks</th>
+    <th>Frameworks/Libraries</th>
     <td>
       <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=red" />
       <img src="https://img.shields.io/badge/Spring_Boot-grey.svg?&style=flat-square&logo=spring-boot&logoColor=light-green" />
       <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
       <img src="https://img.shields.io/badge/-redux-black?style=flat-square&logo=redux&logoColor=violet" />
