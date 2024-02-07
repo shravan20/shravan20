@@ -16,7 +16,7 @@
 
 <br>
 
-- 🔭 I possess a solid foundation and showcase a robust skill set in `Java`, `JavaScript`, `Python`, and `C++`, complemented by experience in `Node.js`, `Express.js`, `Nest.js`, `Spring`, `SpringBoot`, `Django`, and `Flask` frameworks.
+- 🔭 I possess a solid foundation and showcase a robust skill set in `Java`, `JavaScript`, `Python`, and `C++`, complemented by experience in `Node.js`, `Express.js`, `Nest.js`, `Spring`, `Spring Boot`, `Django`, and `Flask` frameworks.
   
 - 🐾 Exploring every nook and corner of the Data Science domain; I find it quite interesting in terms of problem-solving.
   
