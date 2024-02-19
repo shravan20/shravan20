@@ -70,7 +70,7 @@
     <td>
       <!--https://cdn4.iconfinder.com/data/icons/35-education-and-school-4/512/08_Calenday-512.png-->
       <a title="cal.com" href="https://cal.com/shravan20">        
-        <img src="https://pbs.twimg.com/profile_images/1729977047999524864/suW5VpQZ_400x400.jpg" width="50" height="50" />
+        <img src="https://3620107743-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpmUOqZjfGqNkiPmqgnMv%2Fuploads%2F9Qaq1hlaTcqKfrc9k4OG%2Fimage.png?alt=media&token=1ffe8530-19ff-4aea-b020-a99cdc224ce1" width="50" height="50" />
       </a>
     </td>
 </table>
