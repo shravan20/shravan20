@@ -68,8 +68,9 @@
       </a>
     </td>
     <td>
-      <a title="Calendly" href="https://cal.com/shravan20">
-        <img src="https://cdn4.iconfinder.com/data/icons/35-education-and-school-4/512/08_Calenday-512.png" width="50" height="50" />
+      <!--https://cdn4.iconfinder.com/data/icons/35-education-and-school-4/512/08_Calenday-512.png-->
+      <a title="cal.com" href="https://cal.com/shravan20">        
+        <img src="https://pbs.twimg.com/profile_images/1729977047999524864/suW5VpQZ_400x400.jpg" width="50" height="50" />
       </a>
     </td>
 </table>
