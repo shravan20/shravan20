@@ -230,7 +230,7 @@ console.log(`Feel free to contribute`);
     </td>
     <td>
       <a href="https://github.com/idodav/sharkio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=idodav&repo=sharkio&theme=algolia" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oferlis&repo=sharkio&theme=algolia" />
       </a>
     </td>
   </tr>
