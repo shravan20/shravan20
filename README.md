@@ -75,6 +75,11 @@
         <img src="https://3620107743-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpmUOqZjfGqNkiPmqgnMv%2Fuploads%2F9Qaq1hlaTcqKfrc9k4OG%2Fimage.png?alt=media&token=1ffe8530-19ff-4aea-b020-a99cdc224ce1" width="50" height="50" />
       </a>
     </td>
+    <td>
+      <a title="GitLab" href="https://gitlab.com/shravan_20">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-1024.png" width="50" height="50" />
+      </a>
+    </td>
 </table>
 
 <br>
