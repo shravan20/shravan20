@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Phags-pa&weight=900&size=15&letterSpacing=-0.30px&duration=500&pause=1000&background=171D3B&center=true&multiline=true&width=460&height=70&lines=From+breaking+things+apart+to+building+them+better...;%E2%80%8E;A+byte-sized+perpetual+prototype+tinkerer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Phags-pa&weight=900&size=15&letterSpacing=-0.30px&duration=1000&pause=100&background=1C1F3B00&center=true&multiline=true&repeat=false&width=460&height=70&lines=From+breaking+things+apart+to+building+them+better...;%E2%80%8E;A+byte-sized+perpetual+prototype+tinkerer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center"> 👋 Let me know if you are here! Sign my guestbook(https://github.com/shravan20/shravan20/issues/48) by leaving a comment below 💟   </p>
