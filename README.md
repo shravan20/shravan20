@@ -264,7 +264,7 @@ console.log(`Feel free to contribute`);
   <tr>
     <td align="center">
       <a href="https://github.com/shravan20">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravan20&theme=algolia#version3" />
+        <img src="https://github-readme-streak-stats-one-mocha.vercel.app?user=shravan20&theme=algolia" />
       </a>
     </td>
   </tr>
