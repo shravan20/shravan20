@@ -81,10 +81,17 @@
     </td>
     <td>
       <a title="GitLab" href="https://gitlab.com/shravan_20">
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-1024.png" width="50" height="50" />
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-1024.png" width="40" height="40" />
+      </a>
+    </td>
+    <td>
+    <a title="GitLab" href="https://gitlab.com/s4shravan">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-1024.png" width="40" height="40" />
       </a>
     </td>
 </table>
+
+<p align="center">Note: I use 2 Gitlab Accounts</p>
 
 <br>
 
