@@ -50,12 +50,12 @@
     </td>
     <td>
       <a title="Medium" href="https://medium.com/@shravan20">
-        <img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-1200-80.jpg" width="45" height="45" />
+        <img src="https://github.com/user-attachments/assets/73c991d4-65f1-4aff-88d2-9812b0c4e281" width="45" height="45" />
       </a>
     </td>
     <td>
       <a title="LinkedIn" href="https://www.linkedin.com/in/shravan20/">
-        <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
+        <img src="https://img.icons8.com/?size=256&id=60ZV_wYC0BM2&format=png" width="50" height="50" />
       </a>
     </td>
     <td>
@@ -65,12 +65,12 @@
     </td>
     <td>
       <a title="Stackoverflow" href="https://stackoverflow.com/users/11899809/shravan20">
-        <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
+        <img src="https://github.com/user-attachments/assets/b8a777a5-fbb8-4780-a6bc-d23778dfcf11" width="50" height="50" />
       </a>
     </td>
     <td>
       <a title="Twitter" href="https://x.com/shravan20_">
-        <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-outline-64.png" width="50" height="50" />
+        <img src="https://github.com/user-attachments/assets/49e0ec34-c834-4637-aa57-5fa2bde56a80" width="50" height="50" />
       </a>
     </td>
     <td>
@@ -81,12 +81,12 @@
     </td>
     <td>
       <a title="GitLab" href="https://gitlab.com/shravan_20">
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-1024.png" width="40" height="40" />
+        <img src="https://github.com/user-attachments/assets/bd5a8a66-2e66-42ba-b36f-ace7d487b7bc" width="40" height="40" />
       </a>
     </td>
     <td>
     <a title="GitLab" href="https://gitlab.com/s4shravan">
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-1024.png" width="40" height="40" />
+        <img src="https://github.com/user-attachments/assets/50bf21b4-0767-46e0-bab6-79299ac15745" width="40" height="40" />
       </a>
     </td>
 </table>
@@ -294,7 +294,7 @@ console.log(`Feel free to contribute`);
 </p>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/shravan20" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📖&slug=dexplorer&button_colour=ff7e38&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy Me A Coffee" height="10%" width="20%" ></a>
+<a href="https://www.buymeacoffee.com/shravan20" target="_blank"><img src="https://c.tenor.com/Is0ELiJnoU0AAAAd/tenor.gif" alt="Buy Me A Coffee" height="10%" width="20%" ></a>
 </p>
 
 ---
