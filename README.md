@@ -12,7 +12,7 @@
 <p align="center">
   <img align="center" width="25%" src="/assets/dino.png" alt="header"/>
   <br>
-  <h5 align="center">console.log('Forever Explorer');</h5>
+  <h5 align="center">console.log("Nullus Bugus Maximus");</h5>
 </p>
 
 <p align="center">
