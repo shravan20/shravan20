@@ -1,4 +1,3 @@
-<samp>
 <p align="center">
   <h1 align="center">Hey there! 👋  </h1>
 </p>
@@ -294,7 +293,7 @@ console.log(`Feel free to contribute`);
 </p>
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/shravan20" target="_blank"><img src="https://c.tenor.com/Is0ELiJnoU0AAAAd/tenor.gif" alt="Buy Me A Coffee" height="10%" width="20%" ></a>
+<a href="https://liberapay.com/shravan20/" target="_blank"><img src="https://github.com/user-attachments/assets/998c2682-237d-4af9-b181-d88cebcd4184" alt="Liberpay" height="10%" width="5%" ></a>
 </p>
 
 ---
