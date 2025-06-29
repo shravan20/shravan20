@@ -70,7 +70,7 @@
       </a>
     </td>
     <td>
-      <a title="Twitter" href="https://x.com/zhravan20_">
+      <a title="Twitter" href="https://x.com/zhravan">
         <img src="https://github.com/user-attachments/assets/49e0ec34-c834-4637-aa57-5fa2bde56a80" width="50" height="50" />
       </a>
     </td>
