@@ -268,8 +268,6 @@ console.log(`Feel free to contribute`);
         <img src="https://github-readme-stats.vercel.app/api?username=shravan20&show_icons=true&theme=algolia" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/shravan20">
         <img src="https://github-readme-streak-stats-one-mocha.vercel.app?user=shravan20&theme=algolia" />
