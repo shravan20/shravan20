@@ -293,7 +293,7 @@ console.log(`Feel free to contribute`);
 </p>
 
 <p align="center">
-<a href="https://liberapay.com/zhravan" target="_blank"><img src="https://github.com/user-attachments/assets/998c2682-237d-4af9-b181-d88cebcd4184" alt="Liberpay" height="10%" width="5%" ></a>
+<a href="https://liberapay.com/zhravan" target="_blank"><img src="https://github.com/user-attachments/assets/998c2682-237d-4af9-b181-d88cebcd4184" alt="Liberpay" height="50%" width="5%" ></a>
 </p>
 
 ---
